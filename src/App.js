@@ -2,7 +2,8 @@ import "./App.css"
 function App() {
   return (
     <div className="App">
-        ibrahim nexchat app
+      <div className="blur"></div>
+      <div className="blur"></div>
     </div>
   );
 }
