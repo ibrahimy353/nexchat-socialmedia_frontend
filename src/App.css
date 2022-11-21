@@ -26,6 +26,6 @@
   height: 14rem;
   border-radius: 50%;
   background:#a6ddf0;
-  filter: (72)px;
+  filter: blur(72px);
 
 }
