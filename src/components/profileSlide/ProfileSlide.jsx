@@ -1,8 +1,11 @@
 import React from 'react'
+import LogoSearch from '../LogoSearch/LogoSearch'
 
 const ProfileSlide = () => {
   return (
-    <div className='ProfileSlide'>ProfileSlide</div>
+    <div className='ProfileSlide'>
+        <LogoSearch/>
+    </div>
   )
 }
 
