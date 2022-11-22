@@ -1,9 +1,9 @@
 import React from 'react'
-
+import Logo from '../../img/logo.png'
 const LogoSearch = () => {
   return (
 <div className="LogoSearch">
-    LogoSearch
+    <img src={Logo} alt=''/>
 
 </div> 
 
