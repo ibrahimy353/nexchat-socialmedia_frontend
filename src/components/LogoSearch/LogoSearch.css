@@ -16,3 +16,18 @@
     border-radius: none;
     outline: none;
 }
+
+.s-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    padding: 4px;
+    color: white;
+    background: linear-gradient(106.23deg, #f99827, #f95f35 100%);
+
+}
+
+.s-icon:hover{
+    cursor: pointer;
+}
