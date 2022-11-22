@@ -10,3 +10,9 @@
     padding: 5px;
 
 }
+
+.Search>input{
+    background-color: transparent;
+    border-radius: none;
+    outline: none;
+}
