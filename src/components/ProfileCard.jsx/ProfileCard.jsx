@@ -10,6 +10,12 @@ const ProfileCard = () => {
         <img src={Cover} alt="" />
         <img src={Profile} alt="" />
       </div>
+
+      <div className="ProfileName">
+        <span>kilonzi</span>
+        <span>Mtu wa mjei</span>
+      </div>
+
     </div>
   )
 }
