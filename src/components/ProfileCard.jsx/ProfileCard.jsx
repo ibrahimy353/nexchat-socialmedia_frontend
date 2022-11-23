@@ -15,6 +15,22 @@ const ProfileCard = () => {
         <span>kilonzi</span>
         <span>Mtu wa mjei</span>
       </div>
+      
+      <div className="followstatus">
+        <hr />
+        <div>
+          <div className="follow">
+            <span>7534</span>
+            <span>Followings</span>
+          </div>
+
+          <div className="vl">
+            <span>1</span>
+            <span>Followers</span>
+          </div>
+        </div>
+        <hr />
+      </div>
 
     </div>
   )
