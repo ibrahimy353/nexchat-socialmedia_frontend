@@ -1,6 +1,7 @@
 import React from 'react'
 import LogoSearch from '../LogoSearch/LogoSearch'
 import ProfileCard from '../ProfileCard.jsx/ProfileCard'
+import './ProfileSlide.css'
 
 const ProfileSlide = () => {
   return (
@@ -11,4 +12,4 @@ const ProfileSlide = () => {
   )
 }
 
-export default ProfileSlide
+export default ProfileSlide 
