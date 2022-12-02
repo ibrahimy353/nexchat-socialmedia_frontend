@@ -88,3 +88,11 @@
     height: 150%;
     border-left: 1.5px solid var(--hrColor);
 }
+
+.ProfileCard>span{
+    font-weight: bold;
+    color: orange;
+    align-self: center;
+    margin-bottom: 1 rem;
+    cursor: pointer;
+}
