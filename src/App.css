@@ -46,6 +46,6 @@
   cursor: pointer;
   color: var(--orange);
   background: transparent;
-  border: 20px solid var(--orange)
+  border: 2px solid var(--orange)
 
 }
