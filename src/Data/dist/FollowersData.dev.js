@@ -18,18 +18,18 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 var Followers = [{
   name: 'Ibrahim Yusuf',
   username: 'Ibreezy',
-  img: 'img1'
+  img: _img["default"]
 }, {
   name: 'Book Sites',
   username: 'SiteCraetor',
-  img: 'img2'
+  img: _img2["default"]
 }, {
   name: 'Developer Ibra',
   username: 'IbraDev',
-  img: 'img3'
+  img: _img3["default"]
 }, {
   name: 'Just Ibrahim',
   username: 'Ibrahim',
-  img: 'img4'
+  img: _img4["default"]
 }];
 exports.Followers = Followers;
