@@ -39,4 +39,13 @@
   border: none;
   background: var(--buttonBg);
   transition: all 100ms ease-out;
+
+}
+
+.button:hover{
+  cursor: pointer;
+  color: var(--orange);
+  background: transparent;
+  border: 20px solid var(--orange)
+
 }
