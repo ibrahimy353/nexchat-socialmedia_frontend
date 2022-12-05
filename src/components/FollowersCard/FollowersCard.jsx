@@ -12,7 +12,7 @@ const FollowersCard = () => {
       return( 
         <div className='follower'>
           <div>
-            <img src={follower.img} alt="" 
+            <img src={follower.img} alt=''
             className='followerImg'/>
             <div className='name'>
               <span>{follower.name}</span>
