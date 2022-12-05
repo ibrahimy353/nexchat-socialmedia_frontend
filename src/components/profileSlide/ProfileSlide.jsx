@@ -10,7 +10,6 @@ const ProfileSlide = () => {
         <LogoSearch/>
         <ProfileCard/>
         <FollowersCard/>
-      
     </div>
   )
 }
