@@ -29,3 +29,14 @@
   filter: blur(72px);
 
 }
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  border-radius: 0.5rem;
+  border: none;
+  background: var(--buttonBg);
+  transition: all 100ms ease-out;
+}
