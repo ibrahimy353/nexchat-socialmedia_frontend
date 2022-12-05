@@ -6,7 +6,7 @@ import img4 from '../img/img4.jpg';
 export const Followers =[
     {name : 'Ibrahim Yusuf', username:'Ibreezy', img:'img1'},
     {name : 'Book Sites', username:'SiteCraetor', img:'img2'},
-    {name : 'Developer Hussein', username:'HusseinDev', img:'img3'},
-    {name : 'Yusuf Ibra', username:'YuBra', img:'img4'},
+    {name : 'Developer Ibra', username:'IbraDev', img:'img3'},
+    {name : 'Just Ibrahim', username:'Ibrahim', img:'img4'},
 
 ];
