@@ -1,4 +1,4 @@
-import React, { useState, useRef } from "react";
+ import React, { useState, useRef } from "react";
 import ProfileImage from "../../img/profileImg.jpg";
 import "./PostShare.css";
 import { UilScenery } from "@iconscout/react-unicons";
@@ -7,7 +7,8 @@ import { UilLocationPoint } from "@iconscout/react-unicons";
 import { UilSchedule } from "@iconscout/react-unicons";
 import { UilTimes } from "@iconscout/react-unicons";
 
-
+/*included the image change section to make it once the image share buttorn is clicked it takes one to their local directory. the code flows 
+from line (10-23) which then jumps to line 53*/
 const PostShare = () => {
   const [image, setImage] = useState(null);
   const imageRef = useRef();
@@ -45,7 +46,10 @@ const PostShare = () => {
             Shedule
           </div>
           <button className="button ps-button">Share</button>
+
+          
           <div style={{ display: "none" }}>
+            
             <input
               type="file"
               name="myImage"
