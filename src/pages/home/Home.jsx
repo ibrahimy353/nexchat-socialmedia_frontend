@@ -10,7 +10,7 @@ const Home = () => {
         <ProfileSlide/>
         <PostSide/>
         <RightSide/>
-        <TrendCard.css/>
+        <TrendCard/>
     </div>
   )
 }

@@ -14,7 +14,6 @@ const TrendCard = () => {
                     </div>
                 )
             })}
-
     </div>
   )
 }
