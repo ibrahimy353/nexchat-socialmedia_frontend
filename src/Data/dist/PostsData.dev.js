@@ -15,7 +15,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 
 var PostsData = [{
   img: _postpic["default"],
-  name: 'Tzuyu',
+  name: 'Mwende',
   desc: "Happy New Year all friends! #2023",
   likes: 2300,
   liked: true
