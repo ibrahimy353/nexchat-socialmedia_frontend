@@ -7,7 +7,6 @@ import { UilSetting } from "@iconscout/react-unicons";
 import TrendCard from "../TrendCard/TrendCard";
 
 const RightSide = () => {
-  const [modalOpened, setModalOpened] = useState(false);
   return (
     <div className="RightSide">
       <div className="navIcons">
@@ -19,9 +18,7 @@ const RightSide = () => {
 
       <TrendCard />
 
-      <button className="button r-button" onClick={() => setModalOpened(true)}>
-        Share
-      </button>
+      
     </div>
   );
 };
