@@ -22,7 +22,6 @@ const RightSide = () => {
       <button className="button r-button" onClick={() => setModalOpened(true)}>
         Share
       </button>
-      <ShareModal modalOpened={modalOpened} setModalOpened={setModalOpened} />
     </div>
   );
 };
