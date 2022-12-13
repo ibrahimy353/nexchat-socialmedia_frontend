@@ -13,8 +13,8 @@ export const PostsData = [
     },
     {
         img: postPic2,
-        name: 'Maryam',
-        desc: "Party time :)",
+        name: 'Mr Man',
+        desc: "One TBT :)",
         likes: 2300,
         liked: false
 

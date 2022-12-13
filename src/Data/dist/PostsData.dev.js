@@ -21,8 +21,8 @@ var PostsData = [{
   liked: true
 }, {
   img: _postpic2["default"],
-  name: 'Maryam',
-  desc: "Party time :)",
+  name: 'Mr Man',
+  desc: "One TBT :)",
   likes: 2300,
   liked: false
 }, {
