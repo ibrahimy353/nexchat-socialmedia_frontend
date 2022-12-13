@@ -8,7 +8,7 @@ var TrendData = [{
   name: "Uhuru Kenyatta",
   shares: 97
 }, {
-  name: "Lil Mbwa",
+  name: "Arsenal",
   shares: 80.5
 }, {
   name: "Morocco",
@@ -20,7 +20,7 @@ var TrendData = [{
   name: "Elon Musk",
   shares: 71.9
 }, {
-  name: "Usafi",
+  name: "Arteta",
   shares: 20
 }];
 exports.TrendData = TrendData;
