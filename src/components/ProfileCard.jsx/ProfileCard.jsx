@@ -12,7 +12,7 @@ const ProfileCard = () => {
       </div>
 
       <div className="ProfileName">
-        <span>kilonzi</span>
+        <span>Ibra</span>
         <span>Mtu wa mjei</span>
       </div>
       
