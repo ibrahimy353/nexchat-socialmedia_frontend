@@ -11,7 +11,7 @@ const RightSide = () => {
     <div className="RightSide">
       <div className="navIcons">
         <img src={Home} alt="" />
-        <UilSetting />
+        <UilSetting/>
         <img src={Noti} alt="" />
         <img src={Comment} alt="" />
       </div>
