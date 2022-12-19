@@ -14,7 +14,11 @@ const RightSide = () => {
         <UilSetting/>
         <img src={Noti} alt="" />
         <img src={Comment} alt="" />
+      
+      
       </div>
+
+
 
       <TrendCard />
     <button className="button r-button">Share
