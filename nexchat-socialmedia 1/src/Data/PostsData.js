@@ -22,7 +22,7 @@ export const PostsData = [
     {
         img:postPic3,
         name: "Salena Gomez",
-        desc: "At Archery Festival",
+        desc: "Just finshed hunting.",
         likes: 800,
         liked: false
     }
