@@ -14,7 +14,7 @@ export const PostsData = [
     {
         img: postPic2,
         name: 'Mr Yusuf',
-        desc: "One TBT :)",
+        desc: "Happy new year guys. 2023 it's going to be a wonderfull year. :)",
         likes: 2300,
         liked: false
 
