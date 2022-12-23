@@ -22,13 +22,13 @@ var PostsData = [{
 }, {
   img: _postpic2["default"],
   name: 'Mr Yusuf',
-  desc: "One TBT :)",
+  desc: "Happy new year guys. 2023 it's going to be a wonderfull year. :)",
   likes: 2300,
   liked: false
 }, {
   img: _postpic3["default"],
   name: "Salena Gomez",
-  desc: "At Archery Festival",
+  desc: "Just finshed hunting.",
   likes: 800,
   liked: false
 }];
