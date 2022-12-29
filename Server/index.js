@@ -10,4 +10,4 @@ mongoose
 .connect(
     "mongodb+srv://Ibrahim:Dresser3141@cluster0.6nvwbtp.mongodb.net/SocialMedia_Youtube?retryWrites=true&w=majority"
     )
-    .then(()=>app.listen(5000, ()=> console.log("Listening"));
+    .then(() => app.listen(5000, ()=> console.log("Listening")));
