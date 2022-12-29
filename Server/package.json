@@ -6,7 +6,6 @@
   "type": "module",
 
   "scripts": {
-    // when ever we wright start in the terminal it will start our index.js through the nodemon package
     "start": "nodemon index.js"
   },
   "author": "",
