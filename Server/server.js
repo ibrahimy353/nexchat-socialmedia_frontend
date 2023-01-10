@@ -10,7 +10,7 @@ app.use (bodyParser.urlencoded({limit:'30mb', extended: true}));
 
 mongoose
 .connect(
-    "mongodb+srv://Ibrahim:12ibrahimyusuf@cluster0.6nvwbtp.mongodb.net/SocialMedia_Youtube?retryWrites=true&w=majority",
+    "mongodb+srv://project1:12ibrahimyusuf@cluster0.xdzxmtz.mongodb.net/project 0?retryWrites=true&w=majority",
     {useNewUrlParser: true, useUnifiedTopology: true})
 
     .then(() => app.listen(5000, ()=> console.log("Listening")));
